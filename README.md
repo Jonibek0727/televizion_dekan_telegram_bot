@@ -1,0 +1,2 @@
+# televizion_dekan_telegram_bot
+Televizion Texnalogiyalari dekani teligram boti
