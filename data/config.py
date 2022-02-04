@@ -10,4 +10,4 @@ ADMINS = env.list("ADMINS")  # adminlar ro'yxati
 IP = env.str("ip")  # Xosting ip manzili
 
 
-GROUP_CHAT_ID = -1001704364861
+GROUP_CHAT_ID = -1001701497238
